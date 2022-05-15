@@ -3,20 +3,8 @@
 
 Predictions bot for PancakeSwap & CandleGenie
 
-![PancakeSwap-Logo-Big](https://github.com/parames3010/PancakeswapPredictionBot-2022/blob/main/pancake.png)
-<p align="center">
-  <a href="https://github.com/parames3010/PancakeswapPredictionBot-2022/releases">
-    <img alt="GitHub all releases" src="https://img.shields.io/github/followers/parames3010?style=social">
-  </a>
-  <a href="https://github.com/parames3010/PancakeswapPredictionBot-2022">
-    <img alt="GitHub release (latest by date)" src="https://img.shields.io/github/stars/parames3010/PancakeswapPredictionBot-2022?style=social">
-  </a>
-   <a href="https://github.com/parames3010/PancakeswapPredictionBot-2022">
-    <img alt="GitHub release (latest by date)" src="https://img.shields.io/github/forks/parames3010/PancakeswapPredictionBot-2022?style=social">
-  </a>
-  <a href="https://twitter.com/intent/follow?screen_name=PancakeSwap">
-    <img src="https://img.shields.io/twitter/follow/PancakeSwap?style=social" alt="Follow @PancakeSwap" />
-  </a>
+![PancakeSwap-Logo-Big](https://github.com/a5hl3y2k6/Pancake-Predictions-Bot-2022/blob/main/pancake.png)
+
 
 This bot wins majority of rounds on PancakeSwap & CandleGenie based on both market conditions, and the strategy chosen.
 
